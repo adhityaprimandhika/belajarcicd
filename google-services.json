@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917110757190",
+    "project_id": "testfb-1277b",
+    "storage_bucket": "testfb-1277b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917110757190:android:fb833cdca0462cbf1ef747",
+        "android_client_info": {
+          "package_name": "com.adhityaprimandhika.belajarcicd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsaxVgRijx4EPG5ESjCLYRCafB-nYAjR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917110757190:android:eea591ec7d89f5931ef747",
+        "android_client_info": {
+          "package_name": "com.adhityaprimandhika.react_native_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsaxVgRijx4EPG5ESjCLYRCafB-nYAjR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
